@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545491248016",
+    "project_id": "tena-project",
+    "storage_bucket": "tena-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545491248016:android:07fc35bac6fcf209434915",
+        "android_client_info": {
+          "package_name": "com.example.tena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545491248016-h81sreloe8rae9pmv584a34i5tnmom6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIWvmWmqmQVfzdO3SNT5DJOb4XUqwUUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545491248016-h81sreloe8rae9pmv584a34i5tnmom6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
